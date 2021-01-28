@@ -1,9 +1,9 @@
 <?php
 
 $host="localhost";
-$user="shreedam_abril";
-$pass="Admin@321$5";
-$db="shreedam_abril";
+$user="root";
+$pass="";
+$db=  "cash-flow";
 
 $con=mysqli_connect($host,$user,$pass,$db)or die("Could not Connect to server");
 
