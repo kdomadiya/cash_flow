@@ -1,0 +1,11 @@
+[05-Jul-2020 10:26:32 Asia/Calcutta] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'suvarnic_abril'@'localhost' to database 'khadela' in /home/suvarnic/www.abrilinternational.com/account/include/config.php on line 8
+[05-Jul-2020 06:56:32 Europe/Berlin] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'suvarnic_abril'@'localhost' to database 'khadela' in /home/suvarnic/www.abrilinternational.com/account/include/config.php on line 8
+[06-Jul-2020 10:34:42 Europe/Berlin] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/suvarnic/www.abrilinternational.com/account/datetime.php on line 1
+[28-Jul-2020 21:01:21 Asia/Calcutta] PHP Notice:  Undefined index: member_name in /home/suvarnic/www.abrilinternational.com/account/include/header.php on line 5
+[28-Jul-2020 21:01:21 Asia/Calcutta] PHP Notice:  Undefined variable: role in /home/suvarnic/www.abrilinternational.com/account/include/header.php on line 24
+[28-Jul-2020 21:01:21 Asia/Calcutta] PHP Notice:  Undefined variable: role in /home/suvarnic/www.abrilinternational.com/account/include/header.php on line 61
+[28-Jul-2020 21:01:21 Asia/Calcutta] PHP Notice:  Undefined variable: role in /home/suvarnic/www.abrilinternational.com/account/include/header.php on line 98
+[28-Jul-2020 21:52:54 Asia/Calcutta] PHP Notice:  Undefined index: member_name in /home/suvarnic/www.abrilinternational.com/account/include/header.php on line 5
+[28-Jul-2020 21:52:54 Asia/Calcutta] PHP Notice:  Undefined variable: role in /home/suvarnic/www.abrilinternational.com/account/include/header.php on line 24
+[28-Jul-2020 21:52:54 Asia/Calcutta] PHP Notice:  Undefined variable: role in /home/suvarnic/www.abrilinternational.com/account/include/header.php on line 61
+[28-Jul-2020 21:52:54 Asia/Calcutta] PHP Notice:  Undefined variable: role in /home/suvarnic/www.abrilinternational.com/account/include/header.php on line 98
